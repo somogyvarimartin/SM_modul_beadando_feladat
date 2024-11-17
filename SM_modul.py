@@ -55,4 +55,4 @@ def sm_gui():
     gomb.pack(pady=20)
 
     root.mainloop()
-
+sm_gui()
